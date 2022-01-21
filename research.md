@@ -6,7 +6,7 @@ title: Research
 
 ### Molecular Dynamics Simulations Guided by X-ray Scattering Signal
 
-<img style="float: right; max-width: 40%; min-width: 400px; width: 500px" src="./assets/images/LAO.png" />
+<img style="float: right; max-width: 40%; min-width: 400px; width: 500px" src="./assets/img/LAO.png" />
 
 **Keywords: Molecular Dynamics, CUDA C, GPU, X-ray Scattering**
 
@@ -24,7 +24,7 @@ See our paper here: <a href="https://aip.scitation.org/doi/full/10.1063/5.000715
 
 <!--During my Ph.D. I have been working with Prof. Lin Chen at Northwestern University on tracking and characterizing disordered protein structures when they are subject to external excitation, such as light, temperature-jump, pH-jump, or chemical reduction. I did a large part of my research at the Advanced Photon Source at Argonne National Laboratory, where I utilized the BioCARS beamline for time-resolved X-ray solution scattering, 11-ID-D beamline for X-ray transient absorption spectroscopy, and DND-CAT for small-angle X-ray scattering.-->
 
-<img style="float: left; max-width: 40%; min-width: 400px; width: 500px" src="./assets/images/BLA.png" />
+<img style="float: left; max-width: 40%; min-width: 400px; width: 500px" src="./assets/img/BLA.png" />
 
 **Keywords: Data-driven Simulation, X-ray Scattering, Molecular Dynamics**
 

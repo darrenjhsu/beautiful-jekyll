@@ -1,6 +1,6 @@
 ---
 layout: page
-sub-title: Darren Hsu
+title: Darren Hsu
 ---
 
 You can also [downloaded my CV here.](./assets/files/DarrenHsu_CV.pdf)
@@ -13,18 +13,18 @@ You can also [downloaded my CV here.](./assets/files/DarrenHsu_CV.pdf)
 - **2015 - 2020**, Ph.D., Chemistry, Northwestern Univeristy, Evanston, IL, USA
 - **2011 - 2015**, B.S., Chemistry, National Taiwan University, Taipei, Taiwan
 
-<br/>
 
 ### Skills
 
-**Computational**  
+##### Computational
 **Python**: NumPy, SciPy, Pandas, scikit-learn, Tensorflow, Keras, PyTorch.  
 **C** (CUDA), Matlab, Shell, Linux, Git, High-performance computing, NAMD, GROMACS, Tcl, LaTeX  
   
-**Scientific**  
-Instrumental analysis (UV-Vis, Fluorescence, UVCD, Transient Absorption, X-ray spectroscopy, X-ray scattering), Signal analysis, Statistical modeling, Machine learning, Numerical and Chemical simulations, Data visualization, Research write-up
+##### Scientific
+**Instrumental analysis** (UV-Vis, Fluorescence, UVCD, Transient Absorption, X-ray spectroscopy, X-ray scattering)  
+Signal analysis, Statistical modeling, Machine learning, Numerical and Chemical simulations, Data visualization, Research write-up
   
-**Languages**
+##### Languages
 Chinese Mandarin (Traditional; Native), English (Professional)
 
 
