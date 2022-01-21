@@ -15,7 +15,8 @@ author: Darren Hsu
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "index"
+  Research: "research"
   CV: "cv"
   #Blog: 
   #Resources:
