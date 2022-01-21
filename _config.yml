@@ -17,8 +17,9 @@ author: Darren Hsu
 navbar-links:
   About Me: "index"
   Research: "research"
+  Blogs: 
+    - Minimal distance between two points of two groups: "2022-01-21-broadcasting-and-numba"
   CV: "cv"
-  #Blog: 
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"

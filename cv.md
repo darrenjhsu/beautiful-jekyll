@@ -13,7 +13,6 @@ You can also [downloaded my CV here.](./assets/files/DarrenHsu_CV.pdf)
 - **2015 - 2020**, Ph.D., Chemistry, Northwestern Univeristy, Evanston, IL, USA
 - **2011 - 2015**, B.S., Chemistry, National Taiwan University, Taipei, Taiwan
 
-<br/>
 
 ### Skills
 <span style="font-size: 1.2rem; font-weight: 800;">Computational</span><br/>
@@ -27,7 +26,6 @@ Signal analysis, Statistical modeling, Machine learning, Numerical and Chemical 
 <span style="font-size: 1.2rem; font-weight: 800;">Languages</span><br/>
 Chinese Mandarin (Traditional; Native), English (Professional)  
 
-<br/>
 
 ### Awards & Grants
 
@@ -38,7 +36,7 @@ Chinese Mandarin (Traditional; Native), English (Professional)
 - **2015** Dean's Award of College of Science, National Taiwan University
 - **2014** Ministry of Science and Technology of Taiwan College Student Research Scholarship. Proposal: Potential Energy Surface Interpolation in the Nudged Elastic Band Method.
 
-
+<br/>
 
 ### Publications
 
