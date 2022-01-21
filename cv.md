@@ -13,20 +13,21 @@ You can also [downloaded my CV here.](./assets/files/DarrenHsu_CV.pdf)
 - **2015 - 2020**, Ph.D., Chemistry, Northwestern Univeristy, Evanston, IL, USA
 - **2011 - 2015**, B.S., Chemistry, National Taiwan University, Taipei, Taiwan
 
+<br/>
 
 ### Skills
+<span style="font-size: 1.2rem; font-weight: 800;">Computational</span><br/>
+**_Python_**: NumPy, SciPy, Pandas, scikit-learn, Tensorflow, Keras, PyTorch.  
+**_C_** (CUDA), Matlab, Shell, Linux, Git, High-performance computing, NAMD, GROMACS, Tcl, LaTeX  
 
-<span style="font-size: 1.2rem;">Computational</span><br/>
-**Python**: NumPy, SciPy, Pandas, scikit-learn, Tensorflow, Keras, PyTorch.  
-**C** (CUDA), Matlab, Shell, Linux, Git, High-performance computing, NAMD, GROMACS, Tcl, LaTeX  
-  
-##### Scientific
-**Instrumental analysis** (UV-Vis, Fluorescence, UVCD, Transient Absorption, X-ray spectroscopy, X-ray scattering)  
+<span style="font-size: 1.2rem; font-weight: 800;">Scientific</span><br/>
+**_Instrumental analysis_** (UV-Vis, Fluorescence, UVCD, Transient Absorption, X-ray spectroscopy, X-ray scattering)  
 Signal analysis, Statistical modeling, Machine learning, Numerical and Chemical simulations, Data visualization, Research write-up
-  
-##### Languages
-Chinese Mandarin (Traditional; Native), English (Professional)
 
+<span style="font-size: 1.2rem; font-weight: 800;">Languages</span><br/>
+Chinese Mandarin (Traditional; Native), English (Professional)  
+
+<br/>
 
 ### Awards & Grants
 
