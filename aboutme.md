@@ -14,5 +14,5 @@ Halfway through the Ph.D. time, my research transitioned into integrating X-ray 
 After graduating from NU, I joined AstraZeneca as a Postdoctoral Fellow, studying cryoEM-based structural modeling method, also with MD simulations.
 As a Postdoc at ORNL, I am studying how to refine drug binding pose _in silico_ in a high-throughput manner, as well as how to predict these poses with AI models.
 
-In my spare time, I enjoy tennis, birdwatching, and photography.
+In my spare time, I enjoy cooking, birdwatching, tennis, and photography.
 

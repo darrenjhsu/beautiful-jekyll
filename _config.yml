@@ -16,6 +16,7 @@ author: Darren Hsu
 
 navbar-links:
   About Me: "aboutme"
+  CV: "cv"
   #Blog: 
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
