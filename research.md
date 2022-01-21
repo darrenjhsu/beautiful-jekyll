@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Research
 ---
 
 
-### Molecular Dynamics Simulations Guided by X-ray Scattering Signal
+## Molecular Dynamics Simulations Guided by X-ray Scattering Signal
 
-<img style="float: right; max-width: 40%; min-width: 400px; width: 500px" src="./assets/img/LAO.png" />
+<img style="float: right; max-width: 40%; min-width: 400px; width: 500px" src="/assets/img/LAO.png" />
 
 **Keywords: Molecular Dynamics, CUDA C, GPU, X-ray Scattering**
 
@@ -20,11 +19,11 @@ See our paper here: <a href="https://aip.scitation.org/doi/full/10.1063/5.000715
 
 
 
-### Finding the Unfolded State of a Protein
+## Finding the Unfolded State of a Protein
 
 <!--During my Ph.D. I have been working with Prof. Lin Chen at Northwestern University on tracking and characterizing disordered protein structures when they are subject to external excitation, such as light, temperature-jump, pH-jump, or chemical reduction. I did a large part of my research at the Advanced Photon Source at Argonne National Laboratory, where I utilized the BioCARS beamline for time-resolved X-ray solution scattering, 11-ID-D beamline for X-ray transient absorption spectroscopy, and DND-CAT for small-angle X-ray scattering.-->
 
-<img style="float: left; max-width: 40%; min-width: 400px; width: 500px" src="./assets/img/BLA.png" />
+<img style="float: left; max-width: 40%; min-width: 400px; width: 500px" src="/assets/img/BLA.png" />
 
 **Keywords: Data-driven Simulation, X-ray Scattering, Molecular Dynamics**
 
@@ -36,7 +35,7 @@ This is then our best guess of what the protein looks like in this state, and th
 See our paper here: <a href="https://aip.scitation.org/doi/full/10.1063/5.0039194" target="_blank">Unfolding bovine α-lactalbumin with T-jump: Characterizing disordered intermediates via time-resolved x-ray solution scattering and molecular dynamics simulations</a>.
 
 
-### Side Ph.D. projects 
+## Side Ph.D. projects 
 
 - Designed an aluminum nitride sample holder that will not be evaporated by the IR-laser we use to generate temperature jumps.
 - Probed structural dynamics of platinum and copper complexes using X-ray free electron lasers (XFEL). Multiple papers are in prep.
