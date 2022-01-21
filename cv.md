@@ -16,7 +16,7 @@ You can also [downloaded my CV here.](./assets/files/DarrenHsu_CV.pdf)
 
 ### Skills
 
-##### Computational
+<span style="font-size: 1.2rem;">Computational</span><br/>
 **Python**: NumPy, SciPy, Pandas, scikit-learn, Tensorflow, Keras, PyTorch.  
 **C** (CUDA), Matlab, Shell, Linux, Git, High-performance computing, NAMD, GROMACS, Tcl, LaTeX  
   
