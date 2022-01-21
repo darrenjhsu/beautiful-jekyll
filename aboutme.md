@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Postdoctoral researcher at Oak Ridge National Lab 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! I am Darren Hsu.
+ 
+I'm a postdoctoral researcher at Oak Ridge National Laboratory (ORNL), under the National Center for Computational Sciences. 
+I received my Ph.D. in Chemistry from Northwestern University in 2020 with an award for excellence in graduate research,
+and my B.S. in Chemistry from National Taiwan University in 2015.
+I enjoy modeling experimental data with computational simulations and machine learning methods.
+My Ph.D. work focused on using time-resolved X-ray techniques (scattering and spectroscopy) to understand, in real time, what happens in proteins and small molecules when they are perturbed by environmental stimuli.
+Halfway through the Ph.D. time, my research transitioned into integrating X-ray data into molecular dynamics (MD) simulations for the active sampling of data-compatible protein structures.
+After graduating from NU, I joined AstraZeneca as a Postdoctoral Fellow, studying cryoEM-based structural modeling method, also with MD simulations.
+As a Postdoc at ORNL, I am studying how to refine drug binding pose _in silico_ in a high-throughput manner, as well as how to predict these poses with AI models.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
