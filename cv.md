@@ -3,21 +3,37 @@ layout: page
 title: Darren Hsu
 ---
 
-## Education & Experiences
+### Education & Experiences
 
-**Oak Ridge National Laboratory**, Oak Ridge, TN, USA
-Postdoctoral Research Associate, 2021 - Present
+- **2021 - Present**, Postdoctoral Research Associate, Oak Ridge National Laboratory, Oak Ridge, TN, USA
+- **2020 - 2021**, Postdoctoral Fellow, AstraZeneca, Waltham, MA, USA
+- **2015 - 2020**, Ph.D., Chemistry, Northwestern Univeristy, Evanston, IL, USA
+- **2011 - 2015**, B.S., Chemistry, National Taiwan University, Taipei, Taiwan
 
-**AstraZeneca**, Waltham, MA, USA
-Postdoctoral Fellow, 2020 - 2021
 
-**Northwestern Univeristy**, Evanston, IL, USA
-Ph.D., Chemistry, 2015 - 2020
+### Skills
 
-**National Taiwan University**, Taipei, Taiwan
-B.S., Chemistry, 2011 - 2015
+#### Computational
+**Python**: NumPy, SciPy, Pandas, scikit-learn, Tensorflow, Keras, PyTorch.
+**C** (CUDA), Matlab, Shell, Linux, Git, High-performance computing, NAMD, GROMACS, Tcl, LaTeX
+#### Scientific
+**Instrumental analysis** (UV-Vis, Fluorescence, UVCD, Transient Absorption, X-ray spectroscopy, X-ray scattering), Signal analysis, Statistical modeling, Machine learning, Numerical and Chemical simulations, Data visualization, Research write-up
+#### Languages
+Chinese Mandarin (Traditional; Native), English (Professional)
 
-## Publications
+
+### Awards & Grants
+
+- **2020** Department of Chemistry Award for Excellence in Graduate Research, Northwestern University. Thesis: Characterizing Transient Disordered Protein Structures with Time-Resolved X-Ray Techniques and Molecular Dynamics Simulations.
+- **2018 - 2019** Department of Energy Office of Science Graduate Student Research Award.
+  Proposal: Investigating conformational gating of electron transfer in hybrid hemoglobin.
+- **2016 - 2018** Mentee of the National Institute of Health Molecular Biophysics Training Program. Proposal: Probing Metal Binding Sites and Conformations of Cytochrome *c* during its Folding.
+- **2015** Dean's Award of College of Science, National Taiwan University
+- **2014** Ministry of Science and Technology of Taiwan College Student Research Scholarship. Proposal: Potential Energy Surface Interpolation in the Nudged Elastic Band Method.
+
+
+
+### Publications
 
 <ol reversed>
   <li>Adam K. Nijhawan, Arnold M. Chan, <strong>Darren J. Hsu</strong>, Lin X. Chen, Kevin L. Kohlstedt.  Resolving dynamics in the ensemble: finding paths through intermediate states and disordered protein structures. J. Chem. Phys. B 2021, 125, 12401-12412.</li> 
