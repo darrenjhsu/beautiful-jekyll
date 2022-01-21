@@ -18,7 +18,7 @@ navbar-links:
   About Me: "index"
   Research: "research"
   Blogs: 
-    - Calculating minimal distances: "2022-01-21-broadcasting-and-numba"
+    - Calculate minimal distance: "2022-01-21-broadcasting-and-numba"
   CV: "cv"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
