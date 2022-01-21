@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Darren Hsu
-css: asset/css/CVcss.css
+css: assets/css/CVcss.css
 ---
 
 You can also [downloaded my CV here.](./assets/files/DarrenHsu_CV.pdf)
@@ -43,7 +43,7 @@ Chinese Mandarin (Traditional; Native), English (Professional)
 
 ### Publications
 
-<ol reversed>
+<ol reversed class=CV>
   <li>Adam K. Nijhawan, Arnold M. Chan, <strong>Darren J. Hsu</strong>, Lin X. Chen, Kevin L. Kohlstedt.  Resolving dynamics in the ensemble: finding paths through intermediate states and disordered protein structures. J. Chem. Phys. B 2021, 125, 12401-12412.</li> 
   <li><strong>Darren J. Hsu</strong>, Denis Leshchev, Irina Kosheleva, Kevin L. Kohlstedt and Lin X. Chen.  Unfolding bovine a-lactalbumin with T-jump: characterizing disordered intermediates via time-resolved X-ray solution scattering and molecular dynamics simulations. J. Chem. Phys. 2021, 154, 105121. <strong>(Featured)</strong></li>
   <li><strong>Darren J. Hsu</strong>, Denis Leshchev, Irina Kosheleva, Kevin L. Kohlstedt and Lin X. Chen.  Integrating solvation shell structure in experimentally driven molecular dynamics using X-ray solution scattering data. J. Chem. Phys. 2020, 154, 204115</li>
