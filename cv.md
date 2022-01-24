@@ -4,7 +4,7 @@ title: Darren Hsu
 css: assets/css/CVcss.css
 ---
 
-You can also [downloaded my CV here.](./assets/files/DarrenHsu_CV.pdf)
+You can also [download my CV here.](./assets/files/DarrenHsu_CV.pdf)
 
 
 ### Education 
@@ -16,8 +16,6 @@ Ph.D., Chemistry
 **National Taiwan University**, Taipei, Taiwan  
 B.S., Chemistry  
 2011 - 2015  
-
-<br/>
 
 ### Experiences
 
