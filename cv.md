@@ -7,12 +7,27 @@ css: assets/css/CVcss.css
 You can also [downloaded my CV here.](./assets/files/DarrenHsu_CV.pdf)
 
 
-### Education & Experiences
+### Education 
 
-- **2021 - Present**, Postdoctoral Research Associate, Oak Ridge National Laboratory, Oak Ridge, TN, USA
-- **2020 - 2021**, Postdoctoral Fellow, AstraZeneca, Waltham, MA, USA
-- **2015 - 2020**, Ph.D., Chemistry, Northwestern Univeristy, Evanston, IL, USA
-- **2011 - 2015**, B.S., Chemistry, National Taiwan University, Taipei, Taiwan
+- **Northwestern University**, Evanston, IL, USA
+  Ph.D., Chemistry
+  2015 - 2020
+
+- **National Taiwan University**, Taipei, Taiwan
+  B.S., Chemistry
+  2011 - 2015
+
+<br/>
+
+### Experiences
+
+- **Oak Ridge National Laboratory**, Oak Ridge, TN, USA
+  Postdoctoral Research Associate 
+  2021 - Present
+
+- **AstraZeneca**, Waltham, MA, USA
+  Postdoctoral Fellow
+  2020 - 2021
 
 <br/>
 
