@@ -80,7 +80,7 @@ Michael W. Mara, Brian T. Phelan, Zhu-Lin Xie, Tae Wu Kim, <strong>Darren J. Hsu
 
 **Resolving dynamics in the ensemble: finding paths through intermediate states and disordered protein structures**  
 <span class="smaller">
-Adam K. Nijhawan, Arnold M. Chan, <strong>Darren J. Hsu</strong>, Lin X. Chen, Kevin L. Kohlstedt.  
+Adam K. Nijhawan, Arnold M. Chan, <strong>Darren J. Hsu</strong>, Lin X. Chen, Kevin L. Kohlstedt.
 <br/>
 <em> J. Chem. Phys. B 2021, 125, 12401-12412.</em>
 </span>
@@ -108,7 +108,7 @@ Allison Devitt, <strong>Darren J. Hsu</strong>, Jos van den Eijnde, Michael B. B
 
 **X-ray Snapshots of Protein Folding Reveal Global Conformational Influence on Active Site Ligation**  
 <span class="smaller">
-<strong>Darren J. Hsu</strong>, Denis Lechshev, Dolev Rimmerman, Jiyun Hong, Matthew Kelley, Irina Kosheleva, Xiaoyi Zhang and Lin Chen. 
+<strong>Darren J. Hsu</strong>, Denis Lechshev, Dolev Rimmerman, Jiyun Hong, Matthew Kelley, Irina Kosheleva, Xiaoyi Zhang and Lin Chen.
 <br/>
 <em>Chem. Sci., 2019, 10, 9788-9800.</em>
 </span>
