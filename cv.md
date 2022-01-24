@@ -70,7 +70,15 @@ Proposal: Potential Energy Surface Interpolation in the Nudged Elastic Band Meth
 
 ### Publications
 
-<ol reversed class=CV>
+**_Unveiling ultrafast dynamics in bridged bimetallic complexes using optical and X-ray transient absorption spectroscopies._**
+<span class="smaller">
+Michael W. Mara, Brian T. Phelan, Zhu-Lin Xie, Tae Wu Kim, <strong>Darren J. Hsu</strong>, Xiaolin Liu, Andrew J. S. Valentine, Pyosang Kim, Xiaosong Li, Shin-ichi Adachi, Tetsuo Katayama, Karen L. Mulfort, Lin X. Chen.
+<br/>
+<em>Chem. Sci. Accepted.</em>
+</span>
+
+
+<!--<ol reversed class=CV>
   <li>Michael W. Mara, Brian T. Phelan, Zhu-Lin Xie, Tae Wu Kim, <strong>Darren J. Hsu</strong>, Xiaolin Liu, Andrew J. S. Valentine, Pyosang Kim, Xiaosong Li, Shin-ichi Adachi, Tetsuo Katayama, Karen L. Mulfort, Lin X. Chen.  <strong><em>Unveiling ultrafast dynamics in bridged bimetallic complexes using optical and X-ray transient absorption spectroscopies.</em></strong> Chem. Sci. Accepted.</li>
   <li>Adam K. Nijhawan, Arnold M. Chan, <strong>Darren J. Hsu</strong>, Lin X. Chen, Kevin L. Kohlstedt.  <strong><em>Resolving dynamics in the ensemble: finding paths through intermediate states and disordered protein structures.</em></strong> J. Chem. Phys. B 2021, 125, 12401-12412.</li> 
   <li><strong>Darren J. Hsu</strong>, Denis Leshchev, Irina Kosheleva, Kevin L. Kohlstedt and Lin X. Chen.  Unfolding bovine a-lactalbumin with T-jump: characterizing disordered intermediates via time-resolved X-ray solution scattering and molecular dynamics simulations. J. Chem. Phys. 2021, 154, 105121. <strong>(Featured)</strong></li>
@@ -81,5 +89,5 @@ Proposal: Potential Energy Surface Interpolation in the Nudged Elastic Band Meth
   <li>Dolev Rimmerman, Denis Lechshev, <strong>Darren J. Hsu</strong>, Jiyun Hong, Baxter Abraham, Robert Henning, Irina Kosheleva and Lin Chen.  Probing Cytochrome c Folding Transitions Upon Photo-Triggered Environmental Perturbations Using Time-Resolved X-Ray Scattering. J. Phys. Chem. B 2018, 122, 20, 5218-5224.</li>
   <li>Dolev Rimmerman, Denis Lechshev, <strong>Darren J. Hsu</strong>, Jiyun Hong, Baxter Abraham, Irina Kosheleva, Robert Henning and Lin Chen.  Insulin hexamer dissociation dynamics revealed by photoinduced T-jumps and time-resolved X-ray solution scattering. Photochem. Photobiol. Sci. 2018, 17, 874-882.</li>
   <li>Dolev Rimmerman, Denis Lechshev, <strong>Darren J. Hsu</strong>, Jiyun Hong, Irina Kosheleva and Lin Chen.  Direct Observation of Insulin Association Dynamics with Time-Resolved X-ray Scattering. J. Phys. Chem. Lett. 2017, 8, 4413-4418.</li>
-</ol>
+</ol>-->
 
