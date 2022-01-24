@@ -70,11 +70,75 @@ Proposal: Potential Energy Surface Interpolation in the Nudged Elastic Band Meth
 
 ### Publications
 
-**_Unveiling ultrafast dynamics in bridged bimetallic complexes using optical and X-ray transient absorption spectroscopies._**
+
+**Unveiling ultrafast dynamics in bridged bimetallic complexes using optical and X-ray transient absorption spectroscopies**  
 <span class="smaller">
 Michael W. Mara, Brian T. Phelan, Zhu-Lin Xie, Tae Wu Kim, <strong>Darren J. Hsu</strong>, Xiaolin Liu, Andrew J. S. Valentine, Pyosang Kim, Xiaosong Li, Shin-ichi Adachi, Tetsuo Katayama, Karen L. Mulfort, Lin X. Chen.
 <br/>
 <em>Chem. Sci. Accepted.</em>
+</span>
+
+**Resolving dynamics in the ensemble: finding paths through intermediate states and disordered protein structures**  
+<span class="smaller">
+Adam K. Nijhawan, Arnold M. Chan, <strong>Darren J. Hsu</strong>, Lin X. Chen, Kevin L. Kohlstedt.  
+<br/>
+<em> J. Chem. Phys. B 2021, 125, 12401-12412.</em>
+</span>
+
+**Unfolding bovine a-lactalbumin with T-jump: characterizing disordered intermediates via time-resolved X-ray solution scattering and molecular dynamics simulations**  
+<span class="smaller">
+<strong>Darren J. Hsu</strong>, Denis Leshchev, Irina Kosheleva, Kevin L. Kohlstedt and Lin X. Chen.
+<br/>
+<em>J. Chem. Phys. 2021, 154, 105121. <strong>(Featured)</strong></em>
+</span>
+
+**Integrating solvation shell structure in experimentally driven molecular dynamics using X-ray solution scattering data**  
+<span class="smaller">
+<strong>Darren J. Hsu</strong>, Denis Leshchev, Irina Kosheleva, Kevin L. Kohlstedt and Lin X. Chen.
+<br/>
+<em>J. Chem. Phys. 2020, 154, 204115</em>
+</span>
+
+**Literature Highlights** (on hazards of certain chemicals).  
+<span class="smaller">
+Allison Devitt, <strong>Darren J. Hsu</strong>, Jos van den Eijnde, Michael B. Blayney, Rachel D. Dicken.
+<br/>
+<em>ACS Chemical Health & Safety, 2020, 27, 2, 83-85.</em>
+</span>
+
+**X-ray Snapshots of Protein Folding Reveal Global Conformational Influence on Active Site Ligation**  
+<span class="smaller">
+<strong>Darren J. Hsu</strong>, Denis Lechshev, Dolev Rimmerman, Jiyun Hong, Matthew Kelley, Irina Kosheleva, Xiaoyi Zhang and Lin Chen. 
+<br/>
+<em>Chem. Sci., 2019, 10, 9788-9800.</em>
+</span>
+
+**Revealing Fast Structural Dynamics in pH-Responsive Peptides with Time-Resolved X-ray Scattering**  
+<span class="smaller">
+Dolev Rimmerman, Denis Lechshev, <strong>Darren J. Hsu</strong>, Jiyun Hong, Baxter Abraham, Irina Kosheleva, Robert Henning and Lin Chen.
+<br/>
+<em>J. Phys. Chem. B 2019, 123, 9, 2016-2021.</em>
+</span>
+
+**Probing Cytochrome _c_ Folding Transitions Upon Photo-Triggered Environmental Perturbations Using Time-Resolved X-Ray Scattering**  
+<span class="smaller">
+Dolev Rimmerman, Denis Lechshev, <strong>Darren J. Hsu</strong>, Jiyun Hong, Baxter Abraham, Robert Henning, Irina Kosheleva and Lin Chen.
+<br/>
+<em>Chem. Sci., 2019, 10, 9788-9800.</em>
+</span>
+
+**Insulin hexamer dissociation dynamics revealed by photoinduced T-jumps and time-resolved X-ray solution scattering**  
+<span class="smaller">
+Dolev Rimmerman, Denis Lechshev, <strong>Darren J. Hsu</strong>, Jiyun Hong, Baxter Abraham, Irina Kosheleva, Robert Henning and Lin Chen.
+<br/>
+<em>Photochem. Photobiol. Sci. 2018, 17, 874-882.</em>
+</span>
+
+**Direct Observation of Insulin Association Dynamics with Time-Resolved X-ray Scattering**   
+<span class="smaller">
+Dolev Rimmerman, Denis Lechshev, <strong>Darren J. Hsu</strong>, Jiyun Hong, Irina Kosheleva and Lin Chen.
+<br/>
+<em>J. Phys. Chem. Lett. 2017, 8, 4413-4418.</em>
 </span>
 
 
