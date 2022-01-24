@@ -9,11 +9,11 @@ You can also [downloaded my CV here.](./assets/files/DarrenHsu_CV.pdf)
 
 ### Education 
 
-**Northwestern University**, Evanston, IL, USA  
+#### Northwestern University
 Ph.D., Chemistry  
 2015 - 2020  
 
-**National Taiwan University**, Taipei, Taiwan  
+#### National Taiwan University
 B.S., Chemistry  
 2011 - 2015  
 
@@ -21,38 +21,53 @@ B.S., Chemistry
 
 ### Experiences
 
-**Oak Ridge National Laboratory**, Oak Ridge, TN, USA  
+#### Oak Ridge National Laboratory
 Postdoctoral Research Associate  
 2021 - Present  
 
-**AstraZeneca**, Waltham, MA, USA  
+#### AstraZeneca
 Postdoctoral Fellow  
 2020 - 2021  
 
 <br/>
 
 ### Skills
-<span style="font-size: 1.2rem; font-weight: 800;">Computational</span><br/>
+<!--<span style="font-size: 1.2rem; font-weight: 800;">Computational</span><br/>-->
+#### Computational
 **_Python_**: NumPy, SciPy, Pandas, scikit-learn, Tensorflow, Keras, PyTorch.  
 **_C_** (CUDA), Matlab, Shell, Linux, Git, High-performance computing, NAMD, GROMACS, Tcl, LaTeX  
 
-<span style="font-size: 1.2rem; font-weight: 800;">Scientific</span><br/>
+<!--<span style="font-size: 1.2rem; font-weight: 800;">Scientific</span><br/>-->
+#### Scientific
 **_Instrumental analysis_** (UV-Vis, Fluorescence, UVCD, Transient Absorption, X-ray spectroscopy, X-ray scattering)  
 Signal analysis, Statistical modeling, Machine learning, Numerical and Chemical simulations, Data visualization, Research write-up
 
-<span style="font-size: 1.2rem; font-weight: 800;">Languages</span><br/>
+<!--<span style="font-size: 1.2rem; font-weight: 800;">Languages</span><br/>-->
+#### Languages
 Chinese Mandarin (Traditional; Native), English (Professional)  
 
 <br/>
 
 ### Awards & Grants
 
-- **2020** Department of Chemistry Award for Excellence in Graduate Research, Northwestern University. Thesis: Characterizing Transient Disordered Protein Structures with Time-Resolved X-Ray Techniques and Molecular Dynamics Simulations.
-- **2018 - 2019** Department of Energy Office of Science Graduate Student Research Award.
-  Proposal: Investigating conformational gating of electron transfer in hybrid hemoglobin.
-- **2016 - 2018** Mentee of the National Institute of Health Molecular Biophysics Training Program. Proposal: Probing Metal Binding Sites and Conformations of Cytochrome *c* during its Folding.
-- **2015** Dean's Award of College of Science, National Taiwan University
-- **2014** Ministry of Science and Technology of Taiwan College Student Research Scholarship. Proposal: Potential Energy Surface Interpolation in the Nudged Elastic Band Method.
+#### Department of Chemistry Award for Excellence in Graduate Research
+Northwestern University, 2020  
+Thesis: Characterizing Transient Disordered Protein Structures with Time-Resolved X-Ray Techniques and Molecular Dynamics Simulations.
+
+#### Office of Science Graduate Student Research Award
+Department of Energy, 2018 - 2019  
+Proposal: Investigating conformational gating of electron transfer in hybrid hemoglobin.
+
+#### Mentee, Molecular Biophysics Training Program
+National Institute of Health, 2016 - 2018  
+Proposal: Probing Metal Binding Sites and Conformations of Cytochrome *c* during its Folding. 
+
+#### Dean's Award of College of Science
+National Taiwan University, 2015
+
+#### College Student Research Scholarship. 
+Ministry of Science and Technology of Taiwan, 2014  
+Proposal: Potential Energy Surface Interpolation in the Nudged Elastic Band Method.
 
 <br/>
 
