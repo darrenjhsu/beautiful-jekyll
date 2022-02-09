@@ -4,7 +4,7 @@ title: About me
 subtitle: Darren Hsu 
 ---
 
-**I am a postdoc**toral researcher at Oak Ridge National Laboratory (ORNL), under the National Center for Computational Sciences.
+**I am a** <b>postdoc</b>toral researcher at Oak Ridge National Laboratory (ORNL), under the National Center for Computational Sciences.
  I received my Ph.D. in Chemistry from Northwestern University in 2020 with an award for excellence in graduate research,
 and my B.S. in Chemistry from National Taiwan University in 2015.
 
