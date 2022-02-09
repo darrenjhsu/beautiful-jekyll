@@ -73,7 +73,7 @@ Proposal: Potential Energy Surface Interpolation in the Nudged Elastic Band Meth
 <span class="smaller">
 Michael W. Mara, Brian T. Phelan, Zhu-Lin Xie, Tae Wu Kim, <strong>Darren J. Hsu</strong>, Xiaolin Liu, Andrew J. S. Valentine, Pyosang Kim, Xiaosong Li, Shin-ichi Adachi, Tetsuo Katayama, Karen L. Mulfort, Lin X. Chen.
 <br/>
-<em>Chem. Sci. Accepted.</em>
+<em>Chem. Sci., 2022,13, 1715-1724</em>
 </span>
 
 **Resolving dynamics in the ensemble: finding paths through intermediate states and disordered protein structures**  
