@@ -38,8 +38,10 @@ Postdoctoral Fellow
 **_Instrumental analysis_** (UV-Vis, Fluorescence, UVCD, Transient Absorption, X-ray spectroscopy, X-ray scattering)  
 Signal analysis, Statistical modeling, Machine learning, Numerical and Chemical simulations, Data visualization, Research write-up
 
+<!--
 <span style="font-size: 1.2rem; font-weight: 800;">Languages</span><br/>
 Chinese Mandarin (Traditional; Native), English (Professional)  
+-->
 
 <br/>
 
