@@ -70,12 +70,18 @@ Proposal: Potential Energy Surface Interpolation in the Nudged Elastic Band Meth
 
 ### Publications
 
+**Hit Expansion of a Noncovalent SARS-CoV-2 Main Protease Inhibitor**
+<span class="smaller">
+Jens Glaser, Ada Sedova, Stephanie Galanie, Daniel W. Kneller, Russell B. Davidson, Elvis Maradzike, Sara Del Galdo, Audrey Labbé, <strong>Darren J. Hsu</strong>, Rupesh Agarwal, Dmytro Bykov, Arnold Tharrington, Jerry M. Parks, Dayle M. A. Smith, Isabella Daidone, Leighton Coates, Andrey Kovalevsky, Jeremy C. Smith.
+<br/>
+<em>ACS Pharmacology & Translational Science 2022, 5, 255-265</em>
+</span>
 
 **Unveiling ultrafast dynamics in bridged bimetallic complexes using optical and X-ray transient absorption spectroscopies**  
 <span class="smaller">
 Michael W. Mara, Brian T. Phelan, Zhu-Lin Xie, Tae Wu Kim, <strong>Darren J. Hsu</strong>, Xiaolin Liu, Andrew J. S. Valentine, Pyosang Kim, Xiaosong Li, Shin-ichi Adachi, Tetsuo Katayama, Karen L. Mulfort, Lin X. Chen.
 <br/>
-<em>Chem. Sci., 2022,13, 1715-1724</em>
+<em>Chem. Sci., 2022, 13, 1715-1724</em>
 </span>
 
 **Resolving dynamics in the ensemble: finding paths through intermediate states and disordered protein structures**  
@@ -89,7 +95,7 @@ Adam K. Nijhawan, Arnold M. Chan, <strong>Darren J. Hsu</strong>, Lin X. Chen, K
 <span class="smaller">
 <strong>Darren J. Hsu</strong>, Denis Leshchev, Irina Kosheleva, Kevin L. Kohlstedt and Lin X. Chen.
 <br/>
-<em>J. Chem. Phys. 2021, 154, 105121. <strong>(Featured)</strong></em>
+<em>J. Chem. Phys. 2021, 154, 105121. <strong>(Featured, Editor's Choice 2021)</strong></em>
 </span>
 
 **Integrating solvation shell structure in experimentally driven molecular dynamics using X-ray solution scattering data**  
