@@ -70,7 +70,7 @@ Proposal: Potential Energy Surface Interpolation in the Nudged Elastic Band Meth
 
 ### Publications
 
-**Hit Expansion of a Noncovalent SARS-CoV-2 Main Protease Inhibitor**
+**Hit Expansion of a Noncovalent SARS-CoV-2 Main Protease Inhibitor**  
 <span class="smaller">
 Jens Glaser, Ada Sedova, Stephanie Galanie, Daniel W. Kneller, Russell B. Davidson, Elvis Maradzike, Sara Del Galdo, Audrey Labbé, <strong>Darren J. Hsu</strong>, Rupesh Agarwal, Dmytro Bykov, Arnold Tharrington, Jerry M. Parks, Dayle M. A. Smith, Isabella Daidone, Leighton Coates, Andrey Kovalevsky, Jeremy C. Smith.
 <br/>
