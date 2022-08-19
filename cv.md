@@ -16,7 +16,7 @@ Dissertation: "Characterizing Protein Folding Intermediates with Time-resolved X
 
 **National Taiwan University**, Taipei, Taiwan  
 B.S. in Chemistry, 2011 - 2015  
-Advisor: Prof. Yuan-Chung Cheng
+Advisor: Prof. Yuan-Chung Cheng  
 Project: "Finding the Reaction Trajectory for a Molecular Motor Using Nudged Elastic Band Method"  
 
 ### Experiences
