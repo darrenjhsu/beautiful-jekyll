@@ -10,14 +10,14 @@ You can also [download my CV here for more detailed descriptions.](./assets/file
 ### Education 
 
 **Northwestern University**, Evanston, IL, USA  
-Ph.D. in Chemistry, Advisor: Prof. Lin X. Chen
-2015 - 2020  
-Dissertation: "Characterizing Protein Folding Intermediates with Time-resolved X-ray Methods and Molecular Dynamics Simulations"
+Ph.D. in Chemistry, 2015 - 2020  
+Advisor: Prof. Lin X. Chen  
+Dissertation: "Characterizing Protein Folding Intermediates with Time-resolved X-ray Methods and Molecular Dynamics Simulations"  
 
 **National Taiwan University**, Taipei, Taiwan  
-B.S. in Chemistry, Advisor: Prof. Yuan-Chung Cheng
-2011 - 2015
-Project: "Finding the Reaction Trajectory for a Molecular Motor Using Nudged Elastic Band Method"
+B.S. in Chemistry, 2011 - 2015  
+Advisor: Prof. Yuan-Chung Cheng
+Project: "Finding the Reaction Trajectory for a Molecular Motor Using Nudged Elastic Band Method"  
 
 ### Experiences
 
@@ -33,17 +33,17 @@ Postdoctoral Fellow
 
 ### Skills
 <span style="font-size: 1.2rem; font-weight: 800;">Computer Programming</span><br/>
-**_Python_**: NumPy, SciPy, Pandas, scikit-learn, Tensorflow, Keras, PyTorch.  
-**_C_** (CUDA), Matlab, Bash, Tcl, High-performance computing
+**_Python_**: NumPy, SciPy, Pandas, scikit-learn, Tensorflow, Keras, PyTorch  
+C, CUDA, Matlab, Bash, Tcl, High-performance computing  
 
 <span style="font-size: 1.2rem; font-weight: 800;">Molecular Simulation</span><br/>
-NAMD, GROMACS, AMBER
+NAMD, GROMACS, AMBER  
 
 <span style="font-size: 1.2rem; font-weight: 800;">Productivity Applications</span><br/>
-LaTeX, Vim, Microsoft Office, Git
+LaTeX, Vim, Microsoft Office, Git  
 
 <span style="font-size: 1.2rem; font-weight: 800;">Scientific Skills</span><br/>
-Instrumental analysis (Spectroscopy and X-ray experiments), Signal analysis, Statistical modeling, Machine learning, Numerical simulations, Molecular dynamics simulations, Complex data visualization
+Instrumental analysis (Spectroscopy and X-ray experiments), Signal analysis, Statistical modeling, Machine learning, Numerical simulations, Molecular dynamics simulations, Complex data visualization  
 
 <!--
 <span style="font-size: 1.2rem; font-weight: 800;">Languages</span><br/>
