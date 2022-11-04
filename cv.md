@@ -54,6 +54,10 @@ Chinese Mandarin (Traditional; Native), English (Professional)
 
 ### Awards & Grants
 
+**Finalist, 2022 ACM Gordon Bell Special Prize for High Performance Computing-Based COVID-19 Research**  
+2022
+Submission: TwoFold: highly accurate structure and affinity prediction for protein-ligand complexes from sequences
+
 **Department of Chemistry Award for Excellence in Graduate Research**  
 Northwestern University, 2020  
 Thesis: Characterizing Transient Disordered Protein Structures with Time-Resolved X-Ray Techniques and Molecular Dynamics Simulations.
@@ -76,6 +80,20 @@ Proposal: Potential Energy Surface Interpolation in the Nudged Elastic Band Meth
 <br/>
 
 ### Publications
+
+**TwoFold: highly accurate structure and affinity prediction for protein-ligand complexes from sequences**  
+<span class="smaller">
+<strong>Darren J. Hsu</strong>, Hao Lu, Aditya Kashi, Michael Matheson, John Gounley, Feiyi Wang, Wayne Joubert and Jens Glaser
+<br/>
+<em>Finalist manuscript, 2022 ACM Gordon Bell Special Prize for High Performance Computing-Based COVID-19 Research. This will be published in the International Journal of High-Performance Computing Applications (IJHPCA).</em>
+</span>
+
+**Beyond the Born-Oppenheimer Approximation: Excited-state Trajectories of a Photoactive Transition Metal Complex in Real Time**  
+<span class="smaller">
+Denis Leshchev, Andrew J. S. Valentine, Pyosang Kim, Alexis W. Mills, Subhangi Roy, Arnab Chakraborty, Elisa Biasin, Kristoffer Haldrup, <strong>Darren J. Hsu</strong>, Matthew S. Kirschner, Dolev Rimmerman, Matthieu Chollet, J. Michael Glownia, Tim B. van Driel, Felix N. Castellano, Xiaosong Li, Lin X. Chen
+<br/>
+<em>Submitted to J. Am. Chem. Soc.</em>
+</span>
 
 **Hit Expansion of a Noncovalent SARS-CoV-2 Main Protease Inhibitor**  
 <span class="smaller">
