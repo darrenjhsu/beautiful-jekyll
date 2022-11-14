@@ -11,7 +11,7 @@ title: Research
 **Keywords: Molecular Dynamics, CUDA C, GPU, X-ray Scattering**
 
 For the Github repo on driving simulations with X-ray scattering signals, check <a href="https://github.com/darrenjhsu/XSNAMD" target="_blank">here</a>.  
-For a standalone GPU-only X-ray scattering calculator, check <a href="https://github.com/darrenjhsu/gpu_xray_scattering"> target="_blank">here</a>.  
+For a standalone GPU-only X-ray scattering calculator, check <a href="https://github.com/darrenjhsu/gpu_xray_scattering" target="_blank">here</a>.  
 
 This is my main Ph.D. project where we try to guide the protein motions in molecular dynamics (MD) simulations using the data we collected, which is time-resolved X-ray solution scattering signal (TRXSS) of proteins. For example, we try to drive the 1LST structure to the 2LAO structure using only the TRXSS signal difference between the two structures.
 
