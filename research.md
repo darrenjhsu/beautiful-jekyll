@@ -50,6 +50,8 @@ We also build a model zoo of XGBoost classifiers to judge which MD snapshots are
 
 ## Deep Learning Model for Simultaneous Protein & Ligand Structure Prediction
 
+<img style="float: left; max-width: 40%; min-width: 400px; width: 500px" src="/assets/img/TwoFold_DL.png" />
+
 **Keywords: Deep Learning, Transformers, Artificial Intelligence, Protein Folding, Ligand Binding, Structure Prediction**
 
 We built proof-of-concept, transformer-based language models to show we can predict both protein structure and ligand binding poses from just protein sequences and ligand SMILES strings.
