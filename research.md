@@ -55,7 +55,7 @@ We also build a model zoo of XGBoost classifiers to judge which MD snapshots are
 **Keywords: Deep Learning, Transformers, Artificial Intelligence, Protein Folding, Ligand Binding, Structure Prediction**
 
 We built proof-of-concept, transformer-based language models to show we can predict both protein structure and ligand binding poses from just protein sequences and ligand SMILES strings.
-This work is a part of our **TwoFold** submission to the Gordon Bell Special Prize for High Performance Computing-Based COVID-19 Research, which is selected as a finalist to present in the Supercomputing 22 conference.
+This work is a part of our **TwoFold** submission to the Gordon Bell Special Prize for High Performance Computing-Based COVID-19 Research, which is selected as a finalist to present in the <a href="https://sc22.supercomputing.org/presentation/?id=gbv103&sess=sess192" target="_blank">Supercomputing 22 conference</a>.
 
 
 ## Side Ph.D. projects 
