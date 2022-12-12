@@ -81,9 +81,23 @@ Proposal: Potential Energy Surface Interpolation in the Nudged Elastic Band Meth
 
 ### Publications
 
+**tinyIFD: A High-throughput Binding Pose Refinement Workflow Through Induced-fit Ligand Docking**  
+<span class="smaller">
+<strong>Darren J. Hsu</strong>, Russell B. Davidson, Jens Glaser
+<br/>
+<em>Submitted to J. Chem. Info. Model.</em>
+</span>
+
+**The Role of Intermediate Structures in the Unfolding of Trp-Cage: Generating Ensembles from Time-Resolved X-ray Solution Scattering with Genetic Algorithms**  
+<span class="smaller">
+Arnold Chan, Adam Nijhawan, <strong>Darren J. Hsu</strong>, Denis Leshchev, Dolev Rimmerman, Irina Kosheleva, Kevin L. Kohlstedt, Lin X. Chen
+<br/>
+<em>Submitted to J. Phys. Chem. Lett.</em>
+</span>
+
 **TwoFold: highly accurate structure and affinity prediction for protein-ligand complexes from sequences**  
 <span class="smaller">
-<strong>Darren J. Hsu</strong>, Hao Lu, Aditya Kashi, Michael Matheson, John Gounley, Feiyi Wang, Wayne Joubert and Jens Glaser
+<strong>Darren J. Hsu</strong>, Hao Lu, Aditya Kashi, Michael Matheson, John Gounley, Feiyi Wang, Wayne Joubert, Jens Glaser
 <br/>
 <em>Finalist manuscript, 2022 ACM Gordon Bell Special Prize for High Performance Computing-Based COVID-19 Research. This will be published in the International Journal of High-Performance Computing Applications (IJHPCA).</em>
 </span>
@@ -92,7 +106,7 @@ Proposal: Potential Energy Surface Interpolation in the Nudged Elastic Band Meth
 <span class="smaller">
 Denis Leshchev, Andrew J. S. Valentine, Pyosang Kim, Alexis W. Mills, Subhangi Roy, Arnab Chakraborty, Elisa Biasin, Kristoffer Haldrup, <strong>Darren J. Hsu</strong>, Matthew S. Kirschner, Dolev Rimmerman, Matthieu Chollet, J. Michael Glownia, Tim B. van Driel, Felix N. Castellano, Xiaosong Li, Lin X. Chen
 <br/>
-<em>Submitted to J. Am. Chem. Soc.</em>
+<em>Submitted to J. Am. Chem. Soc., in revision</em>
 </span>
 
 **Hit Expansion of a Noncovalent SARS-CoV-2 Main Protease Inhibitor**  
