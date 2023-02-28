@@ -21,8 +21,8 @@ Project: "Finding the Reaction Trajectory for a Molecular Motor Using Nudged Ela
 
 ### Experiences
 
-**NVIDIA**, Remote
-Solutions Architect
+**NVIDIA**, Remote  
+Solutions Architect  
 2023 - present
 
 **Oak Ridge National Laboratory**, Oak Ridge, TN, USA  
