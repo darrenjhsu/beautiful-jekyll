@@ -21,7 +21,7 @@ Project: "Finding the Reaction Trajectory for a Molecular Motor Using Nudged Ela
 
 ### Experiences
 
-**NVIDIA**, Remote  
+**NVIDIA Corporation**, <span class="smaller">Remote</span>  
 Solutions Architect  
 2023 - present
 
@@ -87,16 +87,16 @@ Proposal: Potential Energy Surface Interpolation in the Nudged Elastic Band Meth
 
 **tinyIFD: A High-throughput Binding Pose Refinement Workflow Through Induced-fit Ligand Docking**  
 <span class="smaller">
-<strong>Darren J. Hsu</strong>, Russell B. Davidson, Jens Glaser
+<strong>Darren J. Hsu</strong>, Russell B. Davidson, Ada A. Sedova, Jens Glaser
 <br/>
-<em>Submitted to J. Chem. Info. Model.</em>
+<em>J. Chem. Info. Model. 2023, 63, 11, 3438-3447</em>
 </span>
 
 **The Role of Intermediate Structures in the Unfolding of Trp-Cage: Generating Ensembles from Time-Resolved X-ray Solution Scattering with Genetic Algorithms**  
 <span class="smaller">
 Arnold Chan, Adam Nijhawan, <strong>Darren J. Hsu</strong>, Denis Leshchev, Dolev Rimmerman, Irina Kosheleva, Kevin L. Kohlstedt, Lin X. Chen
 <br/>
-<em>Submitted to J. Phys. Chem. Lett.</em>
+<em>J. Phys. Chem. Lett. 2023, 14, 5, 1133-1139</em>
 </span>
 
 **TwoFold: highly accurate structure and affinity prediction for protein-ligand complexes from sequences**  
@@ -106,11 +106,11 @@ Arnold Chan, Adam Nijhawan, <strong>Darren J. Hsu</strong>, Denis Leshchev, Dole
 <em>Finalist manuscript, 2022 ACM Gordon Bell Special Prize for High Performance Computing-Based COVID-19 Research. This will be published in the International Journal of High-Performance Computing Applications (IJHPCA).</em>
 </span>
 
-**Beyond the Born-Oppenheimer Approximation: Excited-state Trajectories of a Photoactive Transition Metal Complex in Real Time**  
+**Revealing Excited State Trajectories on Potential Energy Surfaces with Atomic Resolution in Real Time**  
 <span class="smaller">
 Denis Leshchev, Andrew J. S. Valentine, Pyosang Kim, Alexis W. Mills, Subhangi Roy, Arnab Chakraborty, Elisa Biasin, Kristoffer Haldrup, <strong>Darren J. Hsu</strong>, Matthew S. Kirschner, Dolev Rimmerman, Matthieu Chollet, J. Michael Glownia, Tim B. van Driel, Felix N. Castellano, Xiaosong Li, Lin X. Chen
 <br/>
-<em>Submitted to J. Am. Chem. Soc., in revision</em>
+<em>Angew. Chem. Int. Ed. 2023, e202304615</em>
 </span>
 
 **Hit Expansion of a Noncovalent SARS-CoV-2 Main Protease Inhibitor**  
